@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ioannou;Elina;;;
+FN:Elina Ioannou
+ORG:Yialco Ltd
+TITLE:Site Engineer
+TEL;TYPE=CELL:+35799016364
+TEL;TYPE=WORK,VOICE:+35725394201
+EMAIL;TYPE=WORK:elina.ioannou@yialco.com
+URL:https://www.yialco.com/
+ADR;TYPE=WORK:;;28 Spyrou Kyprianou Street, 3rd Industrial Area, Agios Sylas;Limassol;;4193;Cyprus
+END:VCARD
